@@ -1,4 +1,4 @@
-# javascript
+# javascript-create-array
 
 Creating an array in javascript can be two ways. 
 
